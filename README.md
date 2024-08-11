@@ -1,2 +1,2 @@
 # BioinformaticsResourcesProject
-A data analysis pipeline on renal papillary cell carcinoma in R
+Created for the course "Bioinformatics Resources" held by Prof A.Romanel @ CIBIO dept., UniTn (IT). 
